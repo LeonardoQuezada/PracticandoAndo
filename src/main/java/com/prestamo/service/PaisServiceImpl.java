@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.prestamo.entity.Pais;
-import com.prestamo.kafka.service.PaisEventService;
 import com.prestamo.repository.PaisRepository;
 
 @Service
